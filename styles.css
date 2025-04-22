@@ -1,0 +1,41 @@
+.zhanjiang-rail-map {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.zhanjiang-rail-map h1 {
+  text-align: center;
+  color: #333;
+  font-family: "Microsoft YaHei", Arial, sans-serif;
+}
+
+.zhanjiang-rail-map svg {
+  width: 100%;
+  height: auto;
+}
+
+.station-popup {
+  padding: 5px;
+}
+
+.station-popup h3 {
+  margin: 0 0 8px 0;
+  color: #333;
+  font-size: 16px;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 5px;
+}
+
+.station-popup p {
+  margin: 5px 0;
+  font-size: 12px;
+}
+
+.station-popup strong {
+  font-weight: bold;
+}
+
+.leaflet-popup-content {
+  min-width: 200px;
+}
